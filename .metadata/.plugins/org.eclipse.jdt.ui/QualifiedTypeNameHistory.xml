@@ -2,8 +2,11 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.hostmdy.lawfirm.repository.ContractRepository"/>
     <fullyQualifiedTypeName name="java.security.Principal"/>
-    <fullyQualifiedTypeName name="com.hostmdy.lawfirm.domain.Contract"/>
     <fullyQualifiedTypeName name="jakarta.persistence.OneToOne"/>
     <fullyQualifiedTypeName name="org.springframework.http.HttpStatus"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PatchMapping"/>
+    <fullyQualifiedTypeName name="com.hostmdy.lawfirm.domain.Contract"/>
+    <fullyQualifiedTypeName name="com.hostmdy.lawfirm.service.ContractServices"/>
+    <fullyQualifiedTypeName name="com.hostmdy.lawfirm.domain.Cases"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
 </qualifiedTypeNameHistroy>
