@@ -457,3 +457,9 @@
 2023-02-11 01:23:34,603 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-02-11 01:23:34,608 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-02-11 01:23:34,612 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CSH Project\Backend-Inquiry-and-appointment\src\test\resources
+2023-02-11 09:57:30,157 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-11 09:57:32,063 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-02-11 11:30:48,332 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-02-11 11:39:06,766 [Worker-10: Launching Backend-Inquiry-and-appointment - LawfirmApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-02-11 11:39:06,818 [Worker-10: Launching Backend-Inquiry-and-appointment - LawfirmApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-02-11 11:39:06,828 [Worker-10: Launching Backend-Inquiry-and-appointment - LawfirmApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\CSH Project\Backend-Inquiry-and-appointment\src\test\resources
